@@ -7,7 +7,7 @@
 
 ## Configuration
 
-### Step 1 - Get the script
+### Step 1 - Get the script from here
 
 Simply copy paste the script uptimemonitor.py into your server. After you test it add it to cron with your preferred check interval
 
